@@ -17,19 +17,21 @@ Once active, you should see the following confirmation message in your terminal:
  User Login & Username Rules
  Upon launching the client, a login window will appear. Please note the following rules:
  
- 1.Uniqueness: Every user must have a unique name.
- 2.Case Sensitivity: The system treats names as unique regardless of capitalization. For example, if "Avi" is already logged in, you cannot log in as      "avi" or "AVI." The system will reject the name and display an error.
- 3.Identification: Your active username will be displayed in the top-left corner of the chat window for easy reference.
+ 1. Uniqueness: Every user must have a unique name.
+
+ 2. Case Sensitivity: The system treats names as unique regardless of capitalization. For example, if "Avi" is already logged in, you cannot log in as      "avi" or "AVI." The system will reject the name and display an error.
+ 3. Identification: Your active username will be displayed in the top-left corner of the chat window for easy reference.
 
 
 * Messaging and Communication:
   
  Once connected, you can start chatting:
- 1.Direct Messaging: Click a name in the Online Users column to select them.
- 2.Manual Format: Type the recipient's name followed by a colon and a space in the message box: RecipientName: {your message}
+ 1. Direct Messaging: Click a name in the Online Users column to select them.
+ 
+ 2. Manual Format: Type the recipient's name followed by a colon and a space in the message box: RecipientName: {your message}
  Disconnecting.
  
- *To leave the chat and notify the server:
+ * To leave the chat and notify the server:
  
  Click the red Disconnect button.
  OR close the window using the X in the top-right corner.
