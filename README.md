@@ -3,7 +3,9 @@ Installation:
 * Before running the application, you must install the required UI library. Open your Terminal or Command Prompt and run: pip install customtkinter
 Launch the Server.
 
-* The server must be running before any users can connect.
+* Launch the Server:
+
+The server must be running before any users can connect.
   
 Run the file: “Server.py”
 Once active, you should see the following confirmation message in your terminal: Server is running on 127.0.0.1:55555.
